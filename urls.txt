@@ -1,0 +1,10 @@
+http://localhost:8080/products
+http://localhost:8080/products/1
+http://localhost:8080/products/2
+http://localhost:8080/products/3
+http://localhost:8080/products?name=Hair Oil
+http://localhost:8080/products?name=Hair Serum
+http://localhost:8080/products?name=Hair Mask
+http://localhost:8080/products?category=Treatment
+http://localhost:8080/products?category=Shampoo
+http://localhost:8080/products?category=Conditioner
